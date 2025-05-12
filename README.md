@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Adenuga Bilaal Omopelumi — a passionate Software Developer, Data Analyst, and AI Enthusiast.<br>🎓 I'm currently studying Surveying & Geo-informatics at LASU (2027).<br>💡 I love building solutions at the intersection of tech, data, and creativity — from AI tools to dashboards.<br>🚀 Currently working on a few SaaS projects, exploring cloud computing, and translating my poetry into English.<br>📚 Always learning. Always building
+👋 Hi, I'm Adenuga Bilaal Omopelumi — a passionate Software Developer, Data Analyst, and AI Enthusiast.<br>🎓 I'm currently studying Surveying & Geo-informatics at LASU (2025 - till date) <br>💡 I love building solutions at the intersection of tech, data, and creativity — from AI tools to dashboards.<br>🚀 Currently working on a few SaaS projects, exploring cloud computing, and translating my poetry into English.<br>📚 Always learning. Always building
 
 
 ## 🌐 Socials:
