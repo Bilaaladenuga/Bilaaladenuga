@@ -388,35 +388,11 @@ I see the combination as an advantage rather than a limitation.
 
 # 📊 GITHUB ACTIVITY
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilaaladenuga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Bilaal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilaaladenuga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Bilaaladenuga&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bilaaladenuga/Bilaaladenuga/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-# 📈 ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilaaladenuga&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
----
 
 # 📚 OUTSIDE THE CODE
 
