@@ -38,7 +38,7 @@ class Bilaal:
 
     currently_building = [
         "AI-powered products",
-        "Practical machine learning systems",
+        "Machine learning systems",
         "Full-stack applications",
         "Developer tools and experiments"
     ]
@@ -46,13 +46,13 @@ class Bilaal:
     philosophy = "Build it. Understand it. Improve it."
 ```
 
-> **I build software to solve problems, but also to understand how things work.**
+> I build software to solve problems, but also to understand how things work.
 
 I'm a developer interested in the space where **software engineering, artificial intelligence, and data** meet.
 
-My work ranges from building full-stack applications and APIs to experimenting with LLMs, machine learning systems, data analysis, and geospatial technology.
+I build full-stack applications, experiment with AI and LLMs, work with data, and explore how technology can be applied to real-world problems.
 
-I don't want to just use tools. I want to understand what is happening underneath them and gradually become better at designing the systems myself.
+My background is in geoinformatics, but programming has taken me far beyond traditional GIS. These days, I am particularly interested in AI systems, backend engineering, machine learning, and building useful products.
 
 ---
 
@@ -66,14 +66,14 @@ I don't want to just use tools. I want to understand what is happening underneat
 * AI-assisted developer tools
 * Machine learning applications
 * Resume and job matching systems
-* Exploring local and private AI with tools such as Ollama
+* Local and private AI experiments
 
 ### ⚙️ Software Engineering
 
 * Full-stack web applications
 * REST APIs
 * Backend systems
-* Authentication and database-driven applications
+* Database-driven applications
 * SaaS products
 * Payment integrations
 * API integrations and automation
@@ -85,67 +85,143 @@ I don't want to just use tools. I want to understand what is happening underneat
 * Spatial analysis
 * Satellite imagery analysis
 * GIS and WebGIS applications
-* Turning raw data into useful information
+* Mapping and location-based systems
 
 ---
 
 # 🔥 FEATURED PROJECTS
 
+These are some of the projects that best represent what I have been building and learning.
+
+---
+
 ## 🛰️ Urban Heat Intelligence Mapper
 
 `Python` `React` `WebGIS` `Landsat` `OpenStreetMap` `Spatial Analysis`
 
-> A geospatial intelligence system for identifying and analysing urban heat patterns using satellite imagery and spatial data.
+> A geospatial intelligence system for analysing urban heat patterns using satellite imagery and spatial data.
 
-### What makes it interesting?
+### Highlights
 
-* 🌍 Uses Landsat satellite imagery
-* 🌱 Calculates NDVI for vegetation analysis
-* 🏢 Uses NDBI to analyse built-up areas
-* 🔥 Identifies urban heat hotspots
-* 📊 Applies spatial analysis techniques
-* 🗺️ Integrates OpenStreetMap data
-* 🧮 Explores spatial statistics such as Moran's I and Getis-Ord Gi*
+* 🌍 Landsat satellite imagery
+* 🌱 NDVI vegetation analysis
+* 🏢 NDBI built-up area analysis
+* 🔥 Urban heat hotspot detection
+* 🗺️ OpenStreetMap integration
+* 📊 Spatial analysis
+* 🧮 Moran's I and Getis-Ord Gi* exploration
 
-The project brought together my background in geoinformatics with the software engineering skills I have been developing.
+This project brought together my geoinformatics background and my growing interest in programming and software engineering.
 
-**Repository:**
+🔗 **Repository:**
 https://github.com/Bilaaladenuga/Urban-Heat-Intelligence-mapper
 
 ---
 
-## 🤖 ResumeForge AI
+## 💧 Water Access Mapper
 
-`JavaScript` `AI` `LLMs` `OpenAI` `OpenRouter`
+`JavaScript` `WebGIS` `Mapping` `Geospatial Data`
 
-> An AI-powered resume and cover letter generator designed to help job seekers tailor their applications to specific opportunities.
+> An interactive mapping application for exploring and documenting water access points across Lagos State.
 
-### The idea
+The application allows users to search locations, explore different map views, identify water points and submit new locations.
 
-Instead of sending the same resume to every company, the system can analyse a job description and help generate a more relevant application.
+### Highlights
+
+* 📍 Location search
+* 🗺️ Interactive mapping
+* 🛰️ Satellite map view
+* 💧 Water-point classification
+* 📌 Point submission
+* 📥 GeoJSON export
+* 📊 CSV export
+* 🌍 Lagos State study area
+
+Water sources currently represented include **taps, wells, boreholes, springs, rainwater and other sources**.
+
+🔗 **Live Application:**
+https://water-access-mapper.vercel.app/
+
+---
+
+## 🤖 CV Job Matching Engine
+
+`Python` `Machine Learning` `NLP` `AI`
+
+> A machine learning project focused on matching a candidate's CV with job descriptions.
+
+The goal is to move beyond simple keyword matching and explore how a system can understand the relationship between a person's skills and experience and what a job actually requires.
 
 ### Exploring
 
-* 🧠 LLM-powered generation
-* 📄 Resume optimisation
+* 📄 CV parsing
 * 🎯 Job description analysis
-* ✍️ AI-generated cover letters
-* 🔍 ATS-oriented content
-* ⚙️ Building toward a complete SaaS product
+* 🧠 Semantic similarity
+* 📊 Match scoring
+* 🔎 Skill gap identification
+* 🤖 NLP and machine learning
 
-**Repository:**
-https://github.com/Bilaaladenuga/ResumeForge-AI
+This is one of the projects I am using to go deeper into practical machine learning instead of building another generic chatbot.
+
+🔗 **GitHub:**
+https://github.com/Bilaaladenuga/cv-match-engine 
+
+---
+
+## 📄 ResuCraft
+
+`TypeScript` `React` `AI`
+
+> An AI-assisted resume application built around the idea of making resume creation and improvement easier.
+
+### Highlights
+
+* 📄 Resume creation
+* ✍️ AI-assisted content
+* 🎯 Job-focused optimisation
+* 🧩 Structured resume building
+* 🌐 Modern web interface
+
+The project is part of my interest in building AI products that solve an actual problem rather than simply demonstrating an AI API.
+
+🔗 **Repository:**
+https://github.com/Bilaaladenuga/ResuCraft
+
+---
+
+## 📱 Qalb Qur'an
+
+`JavaScript` `Mobile Development`
+
+> A mobile application designed to support Quran memorization, personal spiritual growth and community connection.
+
+### Highlights
+
+* 📖 Quran memorization support
+* 📱 Mobile-focused experience
+* 🧠 Personal growth features
+* 🤝 Community-oriented functionality
+
+This project is different from most of my technical experiments, but it reflects something important to me: software can be built around meaningful human needs.
+
+🔗 **Repository:**
+https://github.com/Bilaaladenuga/qalb-qur-an
 
 ---
 
 ## 🌐 Personal Portfolio
 
-`Next.js` `React` `JavaScript` `Vercel`
+`JavaScript` `React` `Vercel`
 
-> My personal space for documenting the things I build, the technologies I am learning, and the direction I am taking as a developer.
+> My personal portfolio where I document the things I build, the technologies I am learning and the direction I am taking as a developer.
 
-**Live:**
+It brings together my work across software development, AI, data and geospatial technology.
+
+🔗 **Live:**
 https://bilaal-portfolio-wine.vercel.app/
+
+🔗 **GitHub:**
+https://github.com/Bilaaladenuga/bilaal-portfolio.
 
 ---
 
@@ -206,7 +282,7 @@ https://bilaal-portfolio-wine.vercel.app/
 
 Technology moves quickly, so there is always something new to learn.
 
-Currently exploring:
+Right now, I am spending more time around:
 
 ```text
 LLMs
@@ -276,9 +352,9 @@ I try not to jump straight into writing code.
                   └─────────────────────┘
 ```
 
-One thing I have learned from building projects is that **getting something to work is only the beginning**.
+One thing I have learned from building projects is that getting something to work is only the beginning.
 
-I care about understanding why it works, finding where it breaks, and improving the implementation.
+I care about understanding why it works, finding where it breaks and improving the implementation.
 
 ---
 
@@ -304,7 +380,7 @@ I care about understanding why it works, finding where it breaks, and improving 
 
 My degree is in geoinformatics, but my interests have grown beyond traditional GIS.
 
-That background introduced me to spatial data, analysis and problem solving, while programming has opened another direction for me in software engineering and artificial intelligence.
+That background introduced me to spatial data, analysis and problem solving, while programming opened another direction for me in software engineering and artificial intelligence.
 
 I see the combination as an advantage rather than a limitation.
 
@@ -348,16 +424,16 @@ Coding is a big part of what I do, but it is not the only thing I care about.
 
 I write too.
 
-I keep a personal journal where I publish essays, notes and poetry. Writing helps me slow down, think clearly and document what I am learning.
+I keep a personal journal where I publish essays, notes and poetry. Writing gives me another way to slow down, think clearly and document what I am learning.
 
-I am particularly interested in the intersection between **technology, learning, creativity and ideas**.
+I'm interested in the intersection between **technology, learning, creativity and ideas**.
 
 ---
 
 # 🌱 A LITTLE MORE ABOUT ME
 
 ```text
-📍 Based in Lagos, Nigeria
+📍 Lagos, Nigeria
 
 🎓 Surveying & Geoinformatics student at LASU
 
